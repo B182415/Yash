@@ -1,4 +1,3 @@
-console("hello world")
-console("hii topper")
-God Man is Topper
-console("the beginning")
+let a = 10;
+let b = 20;
+console.log("Sum = ", a + b);
